@@ -55,7 +55,7 @@ ROOT_URLCONF = 'student_management_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\Window 10\OneDrive - Hanoi University of Science and Technology\Desktop\College_Management_system\student_management_project\templates'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
